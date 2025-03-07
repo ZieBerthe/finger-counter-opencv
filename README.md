@@ -13,7 +13,7 @@ This project uses OpenCV and Mediapipe to detect hands and count the number of s
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/finger-counter-open-cv.git
+    git clone https://github.com/ZieBerthe/finger-counter-opencv.git
     cd finger-counter-open-cv
     ```
 
